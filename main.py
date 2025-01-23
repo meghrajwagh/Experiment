@@ -1,3 +1,3 @@
-pirnt("hello world")
+print("hello world")
 
 print("changes on third line")
